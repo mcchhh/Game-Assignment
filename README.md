@@ -9,3 +9,5 @@ In the beginning, everything was easily understandable. I was able to code and i
 Some good skills I have learnt was implementing platforms (add difficulty in the game), changing the background to have a gradient (visual aspect) and to refractor my codes as having all codes on one JavaScript page can be very long and messy, hence to refractor it and to add comments along the way has helped me navigate my codes around easily without being lost. 
 
 In all, programming this game project has helped me have a better understanding and learning towards JavaScript as a whole. Although I may not be good at it yet, it makes me want to continue learning and to improve my skills along the way. Thank you.
+
+![image](https://github.com/mcchhh/Game-Assignment-/assets/97211282/fe1a36d7-2579-4a88-95b0-f81b826c73d4)
