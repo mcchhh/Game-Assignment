@@ -10,4 +10,6 @@ Some good skills I have learnt was implementing platforms (add difficulty in the
 
 In all, programming this game project has helped me have a better understanding and learning towards JavaScript as a whole. Although I may not be good at it yet, it makes me want to continue learning and to improve my skills along the way. Thank you.
 
-![image](https://github.com/mcchhh/Game-Assignment-/assets/97211282/fe1a36d7-2579-4a88-95b0-f81b826c73d4)
+
+![image](https://github.com/mcchhh/Game-Assignment-/assets/97211282/2cdd5b22-275b-404e-9913-0c7060b5b906)
+
